@@ -2,14 +2,12 @@
 
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml" >
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    
-    <link href="Stylesheet1.css" rel="stylesheet" type="text/css" />
-    <title>Ruap Mushrooms</title>
+    <title></title>
 </head>
 <body>
-    <form class="container" id="form1" runat="server">
+    <form id="form1" runat="server">
         <div><h1>Mushrooms</h1>
         </div>
         <table>
