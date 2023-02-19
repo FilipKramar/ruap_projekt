@@ -1,0 +1,20 @@
+﻿:root {
+    --text: #413c58;
+    --background: #e7efc5;
+    --secondary: #a3c4bc;
+    --secondary-text: #fffff0;
+    --button: #f2dda4;
+    --background-secondary: #bfd7b5;
+}
+html {
+    margin: 0 !important;
+    padding: 0 !important;
+    height: 100%;
+}
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+    min-height: 100%;
+    background-color: var(--background);
+    color: var(--text);
+}
