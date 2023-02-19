@@ -4,9 +4,11 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <link href="Stylesheet1.css" rel="stylesheet" type="text/css" />
+    <title>Ruap Mushrooms</title>
 </head>
 <body>
+    <div class="container">
     <form id="form1" runat="server">
         <div><h1>Mushrooms</h1>
         </div>
@@ -166,5 +168,6 @@
         <h2>
     <asp:Label ID="Labelrez" runat="server" Text="Results will show here"></asp:Label></h2>
             </form>
+        </div>
 </body>
 </html>
